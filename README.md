@@ -8,6 +8,6 @@ um arquivo json com as informações do CEP consultado.
 # Intalando
 
 Para executar/testar basta baixar o projeto <a href="https://github.com/angular/angular-seed">angular-seed</a> substituir a pasta 'app' pela pasta 'app' do projeto CEP.
-Depois acessar o diretório do projeto através do terminal e executar o comando <b>npm start<b>.
+Depois acessar o diretório do projeto através do terminal e executar o comando <b>npm start</b>.
 
 Após alguns minutos a aplicação estará disponível para uso.
