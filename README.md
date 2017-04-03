@@ -2,6 +2,8 @@
 
 Esta é uma pequena aplicação para consulta de CEP - Código de Endereçamento Postal.
 Foi desenvolvido utilizando o framework javascript AngularJS e o framework web Bootstrap.
+A consulta é feita através de consulta a API https://viacep.com.br/ws/ , onde é retornado
+um arquivo json com as informações do CEP consultado.
 
 # Intalando
 
