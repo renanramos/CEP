@@ -1,0 +1,56 @@
+/* app css stylesheet */
+
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li + li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+
+.formulario{
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+}
+
+.formulario > h4{
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.formulario > button{
+  margin-top: 10px;
+}
+
+.resultado {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 800px;
+  background-color: #EEF4F7;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.resultado > table > td{
+    padding: 50px;
+}
