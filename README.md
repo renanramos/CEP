@@ -5,9 +5,11 @@ Foi desenvolvido utilizando o framework javascript <a href="https://angularjs.or
 A consulta é feita através de consulta a API <a href="https://viacep.com.br/ws/" >viacep</a> , onde é retornado
 um arquivo json com as informações do CEP consultado.
 
-# Intalando
+# Instalando
 
 Para executar/testar basta baixar o projeto <a href="https://github.com/angular/angular-seed">angular-seed</a> substituir a pasta 'app' pela pasta 'app' do projeto CEP.
 Depois acessar o diretório do projeto através do terminal e executar o comando <b>npm start</b>.
 
 Após alguns minutos a aplicação estará disponível para uso.
+
+É possível acessar a aplicação através do link configurado no GitPages <a href="https://renanramos.github.io/CEP/">aqui</a>
